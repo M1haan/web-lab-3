@@ -1,0 +1,35 @@
+.vacancies-card {
+    width: 100%;
+    background-color: rgba(0, 17, 51, 0.22);
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 5px;
+}
+
+.vacancies__wrapper {
+    max-width: 800px;
+    padding: 0 40px;
+    margin: 0 auto;
+}
+
+.vacancies__title {
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+
+.vacancies-card__name {
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.vacancies-card__salary {
+    font-size: 20px;
+}
+
+.vacancies-card__company,
+.vacancies-card__location,
+.vacancies-card__experience {
+    font-size: 20px;
+}
+
